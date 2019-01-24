@@ -4,7 +4,7 @@ In this file I will list links to the repositories with statistical assignments.
 
 Solutions will be added to the repositories after the deadlines.
 
-
+1234
 #### Test statistical assignment
 
 The mark for this assignment does not count towards your final grade.
