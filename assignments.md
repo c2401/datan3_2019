@@ -1,6 +1,6 @@
 ### Statistical assignments
 
-# first commit
+# first commit mas254@exeter.ac.uk
 
 In this file I will list links to the repositories with statistical assignments. You will get a separate invitation to complete each assignment on Github Classroom. You will complete each assignment in your personal repository on Github (separate for each assignment). If you have questions about assignments please raise issues in the repositories listed below.
 
